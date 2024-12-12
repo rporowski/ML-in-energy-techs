@@ -1,4 +1,4 @@
-redicting I-V Characteristics of Photovoltaic (PV) Modules using Neural Networks
+Predicting I-V Characteristics of Photovoltaic (PV) Modules using Neural Networks
 This project demonstrates the application of neural networks to predict the current-voltage (I-V) characteristics of photovoltaic (PV) modules. The I-V characteristics are critical for understanding the performance of PV modules under varying environmental conditions. This project implements a fully connected feed-forward neural network to model these characteristics, based on a dataset of PV module parameters.
 
 Features
